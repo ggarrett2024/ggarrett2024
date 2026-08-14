@@ -2,7 +2,7 @@
 
 I'm a cybersecurity graduate based in Texas, with an M.S. in Information Technology – Cybersecurity Concentration and a B.B.A. in Cybersecurity from the University of Texas at San Antonio.  
   
-I'm currently pursuing entry-level opportunities in Cybersecurity Analysis, Security Operations (SOC), IT Security, and Vulnerability Management. I am hoping to be based out of Texas, but am willing to
+I'm currently pursuing entry-level opportunities in Cybersecurity Analysis, Security Operations (SOC), IT Security, and Vulnerability Management. I am hoping to remain in Texas, but am willing to
 consider other opportunities to further my career.  
   
 My background combines hands-on cybersecurity coursework and projects with several years of professional experience in operations, troubleshooting, documentation, team leadership, and incident response.  
