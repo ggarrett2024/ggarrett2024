@@ -54,9 +54,11 @@ Security Monitoring • Log Analysis • Network Traffic Analysis • Vulnerabil
 **Master of Science in Information Technology**  
 Cybersecurity Concentration - GPA: 3.90  
 The University of Texas at San Antonio  
+May 2026  
 
 **Bachelor of Business Administration in Cybersecurity**  
 The University of Texas at San Antonio  
+December 2024  
 
 ## Currently ☕️
 - Preparing for CompTIA Security+
